@@ -32,7 +32,7 @@ Feature Stores facilitate the integration between **data processing pipelines** 
 
 ### **Key Functions of a Feature Store**  
 
-![tutorial-feature-components](img/tutorial-feature-main-features.png)
+![tutorial-feature-main-features](img/tutorial-feature-main-features.png)
 
 * 📦 **1. Centralized Repository**: Stores all features in a single repository, ensuring accessibility and reusability across different models and experiments. This improves team collaboration and avoids duplicated efforts in feature engineering.  
 * 🔍 **2. Versioning**: Tracks different versions of features over time. This is essential for **ML experiment reproducibility**, ensuring that models can be rebuilt with the same features used in previous training runs.  
@@ -46,7 +46,7 @@ Feature Stores facilitate the integration between **data processing pipelines** 
 ## **Components of a Feature Store**  
 A **Feature Store** consists of several key elements that help structure and manage machine learning features. The following sections illustrate these components, representing them as essential building blocks of the system.  
 
-![tutorial-feature-components](img/tutorial-feature-components.png)
+![tutorial-feature-components](img/tutorial-feature-functions.png)
 
 ### **1. Feature Group**  
 The **Feature Group** is the primary storage unit within a Feature Store and consists of:  
