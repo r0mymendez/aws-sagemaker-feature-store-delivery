@@ -103,7 +103,7 @@ Now, let's review the **prerequisites** before we begin. 🚀
 ---
 
 ## 📄 Full Code 
-All the code required to complete this tutorial can be found in the `main.ipynb` notebook.
+All the code required to complete this tutorial can be found in the [`main.ipynb`](https://github.com/r0mymendez/aws-sagemaker-feature-store-delivery/blob/main/main.ipynb) notebook.
 
 
 
